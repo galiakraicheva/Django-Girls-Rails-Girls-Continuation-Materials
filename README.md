@@ -2,7 +2,7 @@
 
 ## Syllabus
 1. Introduction (time estimate: 1h)
-  1. [The Whole Picture](introduction_whole_picture.md)
+  1. [The Whole Picture](the_whole_picture.md)
   2. [How Does the Internet Work](how_does_the_internet_work.md)
 
 2. Basics (time estimation: 2.5 months):
@@ -15,6 +15,3 @@
   2. Git
 
 4) Javascript Horrors (time estimation: 3-4 months): 
-
-
-
