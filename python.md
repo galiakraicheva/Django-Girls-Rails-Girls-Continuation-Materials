@@ -52,7 +52,7 @@ Functions returning something: [Learn Python the Hard Way] (https://learnpythont
 
 [Codecademy] (https://www.codecademy.com/learn/python): Python Syntax and String Sections
 
-[Learn Python the Hard Way](https://learnpythonthehardway.org/book/): every exercise, including those that we missed until ex26 and take the quiz. If yo get something wrong, it's fine. Programming has lot to do with finding your mistakes because even the most experienced programmers make mistakes and spend lots of time to find them. 
+[Learn Python the Hard Way](https://learnpythonthehardway.org/book/): every exercise, including those that we missed until ex26 and take the quiz. If yo get something wrong, it is fine. Programming has lot to do with finding your mistakes because even the most experienced programmers make mistakes and spend lots of time to find them. 
 
 Basic Syntax: [Tutorials Point] (https://www.tutorialspoint.com/python/python_basic_syntax.htm)
 
@@ -66,6 +66,13 @@ If you are interested about some history and characteristics of Python: [Python 
 
 ***
 So now we can continue with more Python: 
+
+***
+##Excercises:
+
+Simpler exercise: [Hacker rank] (https://www.hackerrank.com/domains/python/py-introduction)
+
+Nice source because you use the command-line and do it like a real programmer: [Exercism.io] (http://exercism.io/languages/python/about)
 
 
 
