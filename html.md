@@ -36,9 +36,15 @@ HTML E-mail Tag: [Tutorials Point] (https://www.tutorialspoint.com/html/html_ema
 
 HTML Basics III: [Codecademy] (https://www.codecademy.com/learn/web): pay attention to the div and span sections. Sometime ago programmers used to style websites with tables (if the site had 3 columns, they were using a table with three columns), now everybody is styling with div elements so you will see them a lot in your future life as a programmer.
 
-Div and Span tags: [Tutorials Point] (https://www.tutorialspoint.com/html/html_blocks.htm) 
+Div and Span tags: [Tutorials Point] (https://www.tutorialspoint.com/html/html_blocks.htm) & [HTML dog] (http://www.htmldog.com/guides/html/intermediate/spandiv/)
+
+Sectioning: [HTML Dog] (http://www.htmldog.com/guides/html/intermediate/sectioning/)
 
 Layout: [w3school] (http://www.w3schools.com/html/html_layout.asp): until CSS frameworks
+
+Conditional Comments: [HTML Dog] (http://www.htmldog.com/guides/html/advanced/conditionalcomments/)
+
+Input forms: [HTML Dog] (http://www.htmldog.com/guides/html/advanced/html5forms1/): until Numbers section
 
 Responsive Websites: [w3 school] (http://www.w3schools.com/html/html_responsive.asp): don'tuse w3.css, we are going to use Bootstrap later
 
