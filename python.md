@@ -30,17 +30,17 @@ Indentation: [Python for you and me] (http://pymbook.readthedocs.io/en/py3/thebe
 
 Comments: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex2.html)
 
-Numbers and Math: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex3.html)
+Numbers and math: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex3.html)
 
-Numerical Types: [Tutorial Point, Python] (https://www.tutorialspoint.com/python/python_numbers.htm): up until the Mathematical Functions section 
+Numerical types: [Tutorial Point, Python] (https://www.tutorialspoint.com/python/python_numbers.htm): up until the Mathematical Functions section 
 
-Variables and Strings: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex4.html), again [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex5.html) and again [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex7.html)
+Variables and strings: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex4.html), again [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex5.html) and again [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex7.html)
 
 Escape characters: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex9.html) & [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex10.html) 
 
-Reading input from the Keyboard: [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/variablesanddatatypes.html#reading-input-from-the-keyboard)
+Reading input from the keyboard: [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/variablesanddatatypes.html#reading-input-from-the-keyboard)
 
-Argument Variables: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex13.html) & [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex14.html)
+Argument variables: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex13.html) & [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex14.html)
 
 Reading from a file: [Python for You and Me] (http://pymbook.readthedocs.io/en/latest/file.html): until the Count spaces section & [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex16.html) & [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex17.html): if you have problems understanding the process of manipulating files, have in mind that we first need to make a file handle, which is an object that is like a DVD player and writer, which is "the device" which allows you to write and read on the file. As the DVD is unreadable unless you have a DVD player so is the file without file handler. That is why we created a variable target in ex 16.
 
@@ -54,28 +54,46 @@ Functions returning something: [Learn Python the Hard Way] (https://learnpythont
 
 [Learn Python the Hard Way](https://learnpythonthehardway.org/book/): every exercise, including those that we missed until ex26 and take the quiz. If yo get something wrong, it is fine. Programming has lot to do with finding your mistakes because even the most experienced programmers make mistakes and spend lots of time to find them. 
 
-Basic Syntax: [Tutorials Point] (https://www.tutorialspoint.com/python/python_basic_syntax.htm)
+Basic syntax: [Tutorials Point] (https://www.tutorialspoint.com/python/python_basic_syntax.htm)
 
 Table of arithmetic operators: [Tutorials Point] (https://www.tutorialspoint.com/python/python_basic_operators.htm): just the first one 
 
-Comments, Python interpreter, Indentation: [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/thebeginning.html#): here they also speak about modules at the end, but you have enough knowledge to understand it
+Comments, Python interpreter, indentation: [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/thebeginning.html#): here they also speak about modules at the end, but you have enough knowledge to understand it
 
-Learn more about Strings and what you can do with them: [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/strings.html): until the Palindrome checking section
+Learn more about strings and what you can do with them: [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/strings.html): until the Palindrome checking section
 
 If you are interested about some history and characteristics of Python: [Python Tutorial Point] (https://www.tutorialspoint.com/python/python_overview.htm): until Python Features
 
 ***
 So now we can continue with more Python: 
 
-Logic and Boolean Operators: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex27.html) & [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex28.html): in ex27, if you find difficulties, try to say to your self *In order the whole statement to be true, both this and this whould be true* for and. *In order the whole statement to be true, either this or this should be true* and you will not make mistakes. In ex28, use your interptreter to check whether you got the answers right: you start it by typing python to the command line. [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/operatorsexpressions.html#logical-operators): short section but with interesting content. 
+Logic and boolean operators: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex27.html) & [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex28.html): in ex27, if you find difficulties, try to say to your self *In order the whole statement to be true, both this and this whould be true* for and. *In order the whole statement to be true, either this or this should be true* and you will not make mistakes. In ex28, use your interptreter to check whether you got the answers right: you start it by typing python to the command line. [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/operatorsexpressions.html#logical-operators): short section but with interesting content. 
 
 If, elif, else: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/): ex29, 30 & 31 & [A Byte of Python] (https://python.swaroopch.com/control_flow.html): until the While section; [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/ifelse.html)
 
-**Review Time:** [Codecademy] (https://www.codecademy.com/learn/python): Conditionals and Control Flow Sections
+**Review Time:** 
+
+[Codecademy] (https://www.codecademy.com/learn/python): Conditionals and Control Flow Sections
 
 ***
 
-Loops section with links to be added
+Lists: [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/looping.html#lists): Just the section on lists, [Tutorials Point] (https://www.tutorialspoint.com/python/python_lists.htm): until the Indexes and Matrix Section;  
+
+For-loops: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex32.html)
+
+Tuples: [Tutorials Point] (https://www.tutorialaspoint.com/python/python_tuples.htm)
+
+While-loops: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex33.html), [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/looping.html#while-loop): until Power Series & [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/looping.html#range-function): the Range and the Continue Statement Sections
+
+**Review Time:**
+
+Lists, while, for and exercises: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/): ex34 to 38 including. 
+
+Loops, Functions and Lists: [Codecademy] (https://www.codecademy.com/learn/python): sections 7 and 8 (without Looping over a Dictionary)
+
+***
+
+Dictionaries: links to be added
 
 
 ***
