@@ -24,29 +24,29 @@ We will speak about the Python interpreter a bit. There are two types of languag
 
 Python installation: [Django Girls Tutorial] (https://tutorial.djangogirls.org/en/python_installation/)
 
-Printing text to the screen (Python 2): [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex1.html)
+Printing text to the screen: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex1.html)
 
 Indentation: [Python for you and me] (http://pymbook.readthedocs.io/en/py3/thebeginning.html#whitespaces-and-indentation)
 
-Comments (Python 2): [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex2.html)
+Comments: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex2.html)
 
-Numbers and Math (Python 2): [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex3.html)
+Numbers and Math: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex3.html)
 
 Numerical Types: [Tutorial Point, Python] (https://www.tutorialspoint.com/python/python_numbers.htm): up until the Mathematical Functions section 
 
-Variables and Strings (Python 2): [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex4.html), again [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex5.html) and again [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex7.html)
+Variables and Strings: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex4.html), again [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex5.html) and again [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex7.html)
 
-Escape characters (Python 2): [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex9.html) & [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex10.html) 
+Escape characters: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex9.html) & [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex10.html) 
 
 Reading input from the Keyboard: [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/variablesanddatatypes.html#reading-input-from-the-keyboard)
 
-Argument Variables (Python 2): [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex13.html) & [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex14.html)
+Argument Variables: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex13.html) & [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex14.html)
 
-Reading from a file: [Python for You and Me] (http://pymbook.readthedocs.io/en/latest/file.html): until the Count spaces section & [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex16.html) & [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex17.html): if you have problems understanding the process of manipulating files, have in mind that we first need to make a file handle, which is an object that is like a DVD player and writer, which is "the device" which allows you to write and read on the file. As the DVD is unreadable unless you have a DVD player so is the file without file handler. That is why we created a variable target in ex 16.
+Reading from a file: [Python for You and Me] (http://pymbook.readthedocs.io/en/latest/file.html): until the Count spaces section & [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex16.html) & [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex17.html): if you have problems understanding the process of manipulating files, have in mind that we first need to make a file handle, which is an object that is like a DVD player and writer, which is "the device" which allows you to write and read on the file. As the DVD is unreadable unless you have a DVD player so is the file without file handler. That is why we created a variable target in ex 16.
 
-Functions: [Python Guide on swaroopch.com] (https://python.swaroopch.com/functions.html): until he VarArgs Section & [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex18.html) & again [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex19.html): if you want, try ex20 as well, it is a bit more difficult so you can ask the mentors in the study group
+Functions: [Python Guide on swaroopch.com] (https://python.swaroopch.com/functions.html): until he VarArgs Section & [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex18.html) & again [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex19.html): if you want, try ex20 as well, it is a bit more difficult so you can ask the mentors in the study group
 
-Functions returning something: [Learn Python the Hard Way] (https://learnpythonthehardway.org/book/ex21.html)
+Functions returning something: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex21.html)
 
 **Time for review!!! <3 Hurray**: go back to every single exercise you did and do it again. It is going to take you about a week to review. If yo finish faster, here are some additional resources: 
 
