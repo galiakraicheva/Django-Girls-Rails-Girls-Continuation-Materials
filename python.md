@@ -67,6 +67,17 @@ If you are interested about some history and characteristics of Python: [Python 
 ***
 So now we can continue with more Python: 
 
+Logic and Boolean Operators: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex27.html) & [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/ex28.html): in ex27, if you find difficulties, try to say to your self *In order the whole statement to be true, both this and this whould be true* for and. *In order the whole statement to be true, either this or this should be true* and you will not make mistakes. In ex28, use your interptreter to check whether you got the answers right: you start it by typing python to the command line. [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/operatorsexpressions.html#logical-operators): short section but with interesting content. 
+
+If, elif, else: [Learn Python the Hard Way] (https://learnpythonthehardway.org/python3/): ex29, 30 & 31 & [A Byte of Python] (https://python.swaroopch.com/control_flow.html): until the While section; [Python for You and Me] (http://pymbook.readthedocs.io/en/py3/ifelse.html)
+
+**Review Time:** [Codecademy] (https://www.codecademy.com/learn/python): Conditionals and Control Flow Sections
+
+***
+
+Loops section with links to be added
+
+
 ***
 ##Excercises:
 
