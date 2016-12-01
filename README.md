@@ -7,8 +7,8 @@
 
 2. Basics (time estimation: 2.5 months):
   1. [Command Line] (command_line.md)
-  2. [HTML] (html.md), [CSS] (css.md) & Bootstrap
-  3. [Python] (python.md) / Ruby
+  2. [HTML] (html.md), [CSS] (css.md) & [Bootstrap] (bootstrap.md)
+  3. [Python] (python.md) / [Ruby] (ruby.md)
 
 3. Frameworks and Git (time estimation: 1-2 weeks): 
   1. [Django] (django.md) / Rails
