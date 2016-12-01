@@ -18,6 +18,8 @@ Positioning content: [Learn to Code HTML and CSS] (http://learn.shayhowe.com/htm
 
 Good practices to write HTML and CSS: [Learn to Code HTML and CSS] (http://learn.shayhowe.com/html-css/writing-your-best-code/)
 
+A useful tutorial about how to center your CSS: [How to center in CSS] (http://howtocenterincss.com/)
+
 CSS Grid System: 
 
 
