@@ -20,7 +20,7 @@ Good practices to write HTML and CSS: [Learn to Code HTML and CSS] (http://learn
 
 A useful tutorial about how to center your CSS: [How to center in CSS] (http://howtocenterincss.com/)
 
-CSS Grid System: 
+CSS Grid System: [Site Point] (https://www.sitepoint.com/understanding-css-grid-systems/)
 
 
 *** 
@@ -29,3 +29,5 @@ CSS Grid System:
 If you want to go into details about CSS, here is a useful visual tool: [CSS reference] (http://cssreference.io/): you won't need such details in the beginning but the site is good for reference
 
 Further reading about selectors and their priority: [Learn to Code HTML and CSS] (http://learn.shayhowe.com/html-css/getting-to-know-css/)
+
+If you want to practive HTML and CSS and work on projects or you want to go into details from here on: [Freecode Camp] (https://www.freecodecamp.com/challenges/say-hello-to-html-elements): the HTML and the CSS parts
