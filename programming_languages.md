@@ -1,0 +1,3 @@
+##Introduction to What Programming Languages Are
+
+Programming happens using many different languages. But what does a programming language mean? It is nothing more than a set of rules through which humans give commands to computers. At the beginning communication was really difficult and humans had to give instructions that were trmendously difficult for humans to understand and learn. As time went by more and more languages began to emerge and they were simpler for humans to understand. But how did that happen? Did computers start to understand human words? No! Computers still understand 0s and 1s but the code that programmers write nowadays gets translated into 0s and 1s by a middle tool or tools. For example: text, text, text...
