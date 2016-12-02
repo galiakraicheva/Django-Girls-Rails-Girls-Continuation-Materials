@@ -27,7 +27,7 @@ So in short, for you to have a webpage, you will need to write in HTML, CSS, Pyt
 
 We said that you will also have to run your program. How do you run a program? How do you say that you want to start a program? Initially, you will work on small programs, all by yourself on your own laptop (later you will write bigger programs with other people and your site will be on a server but it will be almost the same). The way you run a program on your own computer is by going to a special place in the computer (maybe you didn't know it existed) and this place is called command line. It is the place in which you can give all sorts of commands to your computer regarding programming and much more. In Windows it is called Command Line Prompt (or recently Powershell), in Linux it is called the Terminal or Bash and in MacOS it is called the Terminal again. We will speak about these issues later. 
 
-#Git
+##Git
 
 At the beginning, this is all you need to write your programs. Once you start making bigger programs and whole websites, you will not just sit on your laptop and do all the coding in a day. You will need a tool that keeps track on what you changed and what was the state of the website before you started in case you later decide that you were wrong to make those changes. The tool that most programmers use for keeping track on their versions of the project is Git/GitHub. It will come later in our course so don't worry about it now. 
 
