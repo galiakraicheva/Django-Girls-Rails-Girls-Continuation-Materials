@@ -1,9 +1,9 @@
-# Welcome to the Django-Girls-Continuation-Course wiki!
+# Welcome to the Django-Girls-Continuation-Course!
 
 ## Syllabus
 1. Introduction (time estimate: 1.5h)
   1. [The Whole Picture](the_whole_picture.md)
-  2. [How Does the Internet Work](how_does_the_internet_work.md)
+  2. [How the Internet Works](how_does_the_internet_work.md) & [How the Internet Works, Part 2] (how_the_internet_works_part_2): part 2 is an additional reading, you may skip it and still be fine :)
   3. [What Are the Programming Languages] (programming_languages.md)
 
 2. Basics (time estimation: 2.5 months):
