@@ -1,4 +1,4 @@
-#How Does the Internet Work
+#How the Internet Works
 
 We want to do websites and things like that. So let's say a couple of words about the Internet. 
 
