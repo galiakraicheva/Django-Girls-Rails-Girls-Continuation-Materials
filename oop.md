@@ -25,8 +25,15 @@ The main reason is that they are convenient. It is super handy to be able to enc
 <hr>
 Some thoughts about the relationship between classes and objects: 
 
-An object is the actual thing that consists the data. The class is just an empty definition of how the object will look like and behave. So the class is the blueprint of the object. If you didn't have a predefined type integer, it would be like: you create a class Integer that should be able to take part in arithmetic operations. It is just an empty definition, a blueprint, that is true for all the object of this class. Then you use in your program the object 5 of class Integer and it has all the actions that all the other pbjects of the same class have by definition. 
+An object is the actual thing that consists the data. The class is just an empty definition of how the object will look like and behave. So the class is the blueprint of the objectq the template of what the object would be like. If you didn't have a predefined type integer, it would be like: you create a class Integer that should be able to take part in arithmetic operations. It is just an empty definition, a blueprint, that is true for all the object of this class. Then you use in your program the object 5 of class Integer and it has all the actions that all the other pbjects of the same class have by definition. 
 
 In OOP tutorials you will ofthentimes hear: an object is an instance of the class. It is as if you say: "By creating this object, I give an instance (example) of an object of this class." So 5 is an instance of our hypothetical class Integer, Square(4) is an instance of our class Square, etc. 
 
 It is just a fancy way to say a simple thing. 
+
+##The Art of OOP
+
+Since each program has a different purpose, each program will require different objects. Our squares and cirlces will be totally inappropriate for a program used to calculate the amount of energy you need to break atoms into particles in CERN. Sometimes the objects needed are pretty obvious as in our example with squares and triangles but sometimes there can be different objects, having different goals, achieving the same result (as in mathematics, when you have different ways to solve a problem but all methods give the same answer). Different programmers identify and define classes differently so they can give different solutions to the same program. Even though there are differences, here are the rules that you'd better follow when designing your classes: 
+
+##Managing the complexity of your program
+Sometimes you have so many different classes in your program that you have to manage them somehow because otherwise you will get too lost in information. 
