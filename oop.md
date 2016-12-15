@@ -37,3 +37,13 @@ Since each program has a different purpose, each program will require different 
 
 ##Managing the complexity of your program
 Sometimes you have so many different classes in your program that you have to manage them somehow because otherwise you will get too lost in information. 
+
+##Software Architecture
+
+<hr>
+##Additional Resources: 
+Modules, Classes and Objects: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex40.html)
+
+Learning the terminology: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex41.html)
+
+Subclasses: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex42.html)
