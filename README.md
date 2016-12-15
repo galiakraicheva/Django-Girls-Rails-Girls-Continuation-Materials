@@ -10,6 +10,7 @@
   1. [Command Line] (command_line.md)
   2. [HTML] (html.md), [CSS] (css.md) & [Bootstrap] (bootstrap.md)
   3. [Python] (python.md) / [Ruby] (ruby.md)
+  4. [Object-Oriented Programming Elements in Ruby/Python] (oop.md)
 
 3. Frameworks and Git (time estimation: 1-2 weeks): 
   1. [Django] (django.md) / Rails
