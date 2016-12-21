@@ -20,8 +20,6 @@ What is next: you start using them. How? By creating objects of these classes. J
 
 Why do we need to bother to create classes when they are program specific and not as general purpose as the integers? 
 
-The main reason is that they are convenient. It is super handy to be able to encapsulate some code into a black box and be able to reuse it without writing it over and over again. 
-
 <hr>
 Some thoughts about the relationship between classes and objects: 
 
@@ -35,8 +33,19 @@ It is just a fancy way to say a simple thing.
 
 Since each program has a different purpose, each program will require different objects. Our squares and cirlces will be totally inappropriate for a program used to calculate the amount of energy you need to break atoms into particles in CERN. Sometimes the objects needed are pretty obvious as in our example with squares and triangles but sometimes there can be different objects, having different goals, achieving the same result (as in mathematics, when you have different ways to solve a problem but all methods give the same answer). Different programmers identify and define classes differently so they can give different solutions to the same program. Even though there are differences, here are the rules that you'd better follow when designing your classes: 
 
-##Managing the complexity of your program
-Sometimes you have so many different classes in your program that you have to manage them somehow because otherwise you will get too lost in information. 
+What is the point of OOP?
+
+The main reason is that they are convenient and keep your code in order so that if you can make changes in future, you will know where to look and what to change. If you make a piece of software and it will never ever have to change, then you can write it whichever way you want and as long as it works, you are fine. But in real life there is no such a thing as neverchanging software. The more you have to make changes the better it is to have your code organised. OOP is one way to organize your code so that you make it easier to change in future. So OOP is a way of managing the complexity of your program.
+
+There are four main tools that OOP uses to keep your code in order: 
+
+1. Encapsulation: putting pieces of code into black boxes (building blocks) to hide some code in them so that we can use the whole box to achieve your goals
+
+2. Abstraction: having the building blocks getting more and more complicated stepping on the building blocks below them
+
+3. Inheritance: having subclasses that inherit the features of the parent classes (there are materials on inheritance below so it will become clear). Public methods can be created to open a defined way to access the logic inside an object. 
+
+4. Polymorphism: 
 
 ##Software Architecture
 
@@ -46,4 +55,8 @@ Modules, Classes and Objects: [Learn Ruby the Hard Way] (https://learnrubythehar
 
 Learning the terminology: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex41.html)
 
-Subclasses: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex42.html)
+Subclasses and Inheritance: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex42.html), {The Bastard Book of Ruby] (http://ruby.bastardsbook.com/chapters/oops/): in reality in Ruby chances are that if you use inheritance, you will most probably mess it up and it may create more problems than it solves. In Java there are things called interfaces that keep OOP in order but in Ruby there are no such things. What is more: they is no compiler to protect us and to check if changes hold throughout the program if we make changes. 
+
+Overview so far: [Tutorials Point] (https://www.tutorialspoint.com/ruby/ruby_object_oriented.htm)
+
+Duck typing: 
