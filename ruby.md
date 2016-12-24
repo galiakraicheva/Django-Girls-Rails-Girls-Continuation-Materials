@@ -9,3 +9,9 @@ Ruby installation & Running the interactive Ruby shell: [Learn Ruby the Hard Way
 Printing text to the screen: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex1.html)
 
 Comments: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex2.html)
+
+...Many more resources: ... 
+
+Regular expressions: 
+
+Overview: [The Pragmatic Programmer's Guide] (http://ruby-doc.com/docs/ProgrammingRuby/)
