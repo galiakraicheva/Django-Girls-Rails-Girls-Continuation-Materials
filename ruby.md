@@ -14,7 +14,7 @@ Numbers and Math: [Learn Ruby the Hard Way, ex3] (https://learnrubythehardway.or
 
 Variables: [Learn Ruby the Hard Way, ex4] (https://learnrubythehardway.org/book/ex4.html) and [Learn Ruby the Hard Way, ex5] (https://learnrubythehardway.org/book/ex5.html)
 
-Strings: [Learn Ruby the Hard Way, ex6] (https://learnrubythehardway.org/book/ex6.html), [Learn Ruby the Hard Way, ex7] (https://learnrubythehardway.org/book/ex7.html) & [Learn Ruby the Hard Way, ex8] (https://learnrubythehardway.org/book/ex8.html)
+Strings: [Learn Ruby the Hard Way, ex6] (https://learnrubythehardway.org/book/ex6.html), [Learn Ruby the Hard Way, ex7] (https://learnrubythehardway.org/book/ex7.html), [Learn Ruby the Hard Way, ex8] (https://learnrubythehardway.org/book/ex8.html), [Codecademy, Chapter1: Intorduction] (https://www.codecademy.com/learn/ruby): Codecademy reviews all the topics so far so do the whole chapter and the interactive lesson afterwards
 
 Escape Sequences: [Learn Ryby the Hard Way, ex9] (https://learnrubythehardway.org/book/ex9.html) & [Learn Ruby the Hard Way, ex10] (https://learnrubythehardway.org/book/ex10.html)
 
@@ -29,9 +29,18 @@ Reading Files: [Learn Ruby the Hard Way, ex15] (https://learnrubythehardway.org/
 Writhing on Files: [Learn Ruby the Hard Way, ex16] (https://learnrubythehardway.org/book/ex16.html) & [Learn Ruby the Hard Way, ex17] (https://learnrubythehardway.org/book/ex17.html)
 
 <hr> 
+
 Defining Methods: [Learn Ruby the Hard Way, ex18] (https://learnrubythehardway.org/book/ex18.html) & [Learn Ruby the Hard Way, ex 19] (https://learnrubythehardway.org/book/ex19.html)
 
 Methods and Files: [Learn Ruby the Hard Way, ex20] (https://learnrubythehardway.org/book/ex20.html)
+
+Return: [Learn Ruby the Hard Way, ex21] (https://learnrubythehardway.org/book/ex21.html)
+
+<hr> 
+
+Review: [Learn Ruby the Hard Way, ex22 to 26] (https://learnrubythehardway.org/book/), Again go through every exercise so far from Learn Ruby the hard Way, 
+
+Optional: [Learning Ruby] (http://rubylearning.com/satishtalim/tutorial.html) If you like reading boring tutorials looking for challenging terms and new code to search online: the Parts until summary2
 
 ...Many more resources: ... 
 
