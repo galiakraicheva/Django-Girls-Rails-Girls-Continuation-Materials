@@ -6,11 +6,36 @@ Ruby is one of the many languages in which you can write programs. These program
 
 Ruby installation & Running the interactive Ruby shell: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex0.html)
 
-Printing text to the screen: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex1.html)
+Printing text to the screen: [Learn Ruby the Hard Way, ex1] (https://learnrubythehardway.org/book/ex1.html)
 
-Comments: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex2.html)
+Comments: [Learn Ruby the Hard Way, ex2] (https://learnrubythehardway.org/book/ex2.html)
+
+Numbers and Math: [Learn Ruby the Hard Way, ex3] (https://learnrubythehardway.org/book/ex3.html)
+
+Variables: [Learn Ruby the Hard Way, ex4] (https://learnrubythehardway.org/book/ex4.html) and [Learn Ruby the Hard Way, ex5] (https://learnrubythehardway.org/book/ex5.html)
+
+Strings: [Learn Ruby the Hard Way, ex6] (https://learnrubythehardway.org/book/ex6.html), [Learn Ruby the Hard Way, ex7] (https://learnrubythehardway.org/book/ex7.html) & [Learn Ruby the Hard Way, ex8] (https://learnrubythehardway.org/book/ex8.html)
+
+Escape Sequences: [Learn Ryby the Hard Way, ex9] (https://learnrubythehardway.org/book/ex9.html) & [Learn Ruby the Hard Way, ex10] (https://learnrubythehardway.org/book/ex10.html)
+
+Getting Input form the User: [Learn Ruby the Hard Way, ex11] (https://learnrubythehardway.org/book/ex11.html) & [Learn Ruby the Hard Way, ex12] (https://learnrubythehardway.org/book/ex12.html)
+
+Argumental Variables: [Learn Ruby the Hard Way, ex13] (https://learnrubythehardway.org/book/ex13.html) & [Learn Ruby the Hard Way, ex14] (https://learnrubythehardway.org/book/ex14.html)
+
+<hr>
+
+Reading Files: [Learn Ruby the Hard Way, ex15] (https://learnrubythehardway.org/book/ex15.html)
+
+Writhing on Files: [Learn Ruby the Hard Way, ex16] (https://learnrubythehardway.org/book/ex16.html) & [Learn Ruby the Hard Way, ex17] (https://learnrubythehardway.org/book/ex17.html)
+
+<hr> 
+Defining Methods: [Learn Ruby the Hard Way, ex18] (https://learnrubythehardway.org/book/ex18.html) & [Learn Ruby the Hard Way, ex 19] (https://learnrubythehardway.org/book/ex19.html)
+
+Methods and Files: [Learn Ruby the Hard Way, ex20] (https://learnrubythehardway.org/book/ex20.html)
 
 ...Many more resources: ... 
+
+Refactoring: [Codecademy] (https://www.codecademy.com/learn/ruby): Chapter 7
 
 Regular expressions: 
 
