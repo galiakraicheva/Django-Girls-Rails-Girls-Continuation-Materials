@@ -45,4 +45,4 @@ Additional Resources: If you are interested in learning more terms, here is a qu
 
 The continuation of the topic, written by me :) Give link
 
-Here is a another very descriptive tutorial, which goes into more details than the above description: [20 Things I Learned about Browsers and the Web] (http://www.20thingsilearned.com/en-US)
+Here is a another very descriptive tutorial, which goes into more details than the above description: [20 Things I Learned about Browsers and the Web] (http://www.20thingsilearned.com/en-US): the chapter on cloud computing is not good and there is no good explanation of the difference between browser extensions and plug-ins but these are not quite important at this stage of the tutorial. 
