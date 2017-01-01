@@ -45,7 +45,7 @@ There are four main tools that OOP uses to keep your code in order:
 
 3. Inheritance: having subclasses that inherit the features of the parent classes (there are materials on inheritance below so it will become clear). Public methods can be created to open a defined way to access the logic inside an object. 
 
-4. Polymorphism: 
+4. Polymorphism: well, in Ruby and Python there is no polymorphism such as in Java and C++ for example but there is duck typing. Polymorphism in Java refers to setting a rule called interface that defines what sort of methods and features your object should have so in our above example it is a rule, saying that all objects of the geometry figure classes should have a method that calculates area and if we miss to put a method calculating the area in one of them, the compiler will complain. In Ruby and Python the logic is that at runtime (when the program runs) if there is something missing to dirupt the proper working of the program, there will be an error message. 
 
 ##Software Architecture
 
@@ -57,6 +57,6 @@ Learning the terminology: [Learn Ruby the Hard Way] (https://learnrubythehardway
 
 Subclasses and Inheritance: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex42.html), {The Bastard Book of Ruby] (http://ruby.bastardsbook.com/chapters/oops/): in reality in Ruby chances are that if you use inheritance, you will most probably mess it up and it may create more problems than it solves. In Java there are things called interfaces that keep OOP in order but in Ruby there are no such things. What is more: they is no compiler to protect us and to check if changes hold throughout the program if we make changes. 
 
-Overview so far: [Tutorials Point] (https://www.tutorialspoint.com/ruby/ruby_object_oriented.htm)
+Overview so far: [Tutorials Point] (https://www.tutorialspoint.com/ruby/ruby_object_oriented.htm) & [Codecademy, Section 9] (https://www.codecademy.com/learn/ruby)
 
 Duck typing: 
