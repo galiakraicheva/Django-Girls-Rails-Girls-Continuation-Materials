@@ -26,9 +26,7 @@ Argumental Variables: [Learn Ruby the Hard Way, ex13] (https://learnrubythehardw
 
 <hr>
 
-Reading Files: [Learn Ruby the Hard Way, ex15] (https://learnrubythehardway.org/book/ex15.html)
-
-Writhing on Files: [Learn Ruby the Hard Way, ex16] (https://learnrubythehardway.org/book/ex16.html) & [Learn Ruby the Hard Way, ex17] (https://learnrubythehardway.org/book/ex17.html)
+Reading and Writing Files: [Learn Ruby the Hard Way, ex15] (https://learnrubythehardway.org/book/ex15.html), [The Bastard Book of Ruby] (http://ruby.bastardsbook.com/chapters/io/), [Learn Ruby the Hard Way, ex16] (https://learnrubythehardway.org/book/ex16.html) & [Learn Ruby the Hard Way, ex17] (https://learnrubythehardway.org/book/ex17.html)
 
 <hr> 
 
@@ -52,7 +50,27 @@ Logic and boolean operators: [Learn Ruby the Hard Way, ex 27) (https://learnruby
 
 If, elsif, else: [Learn Ruby the Hard Way: ex29, 30 & 31] (https://learnrubythehardway.org/book/) & [Ruby for Beginners] (http://ruby-for-beginners.rubymonstas.org/conditionals.html)
 
-Practice on Conditionals: [Codecademy, Chapter 2: Control Flow in Ruby] (https://www.codecademy.com/learn/ruby): and the example project
+Practice on Conditionals: [Codecademy, Chapter 2: Control Flow in Ruby] (https://www.codecademy.com/learn/ruby): and the example project & [Launch School] (https://launchschool.com/books/ruby/read/flow_control)
+
+<hr>
+
+Arrays: [Codecademy: Chapter 4, ex 1-5 & 14] (https://www.codecademy.com/learn/ruby): only the part about Arrays, [Launch School] (https://launchschool.com/books/ruby/read/arrays#whatisanarray): until the .map part, [Ruby Monstas] (http://ruby-for-beginners.rubymonstas.org/built_in_classes/arrays.html) & Optional: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex34.html)
+
+Arrays and For-Loops: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex32.html), [Codecademy, Chapter 4, ex 11 & 12] (https://www.codecademy.com/learn/ruby)
+
+While Loops: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex33.html), [Codeacademy, Chapter 4, ex 1, 2, 4 & 14] (https://www.codecademy.com/learn/ruby)
+
+.times, next, loop, until: [Codecademy, Chapter 4, ex 3, 8-13, 15 & 17]: don't do the part on For loops of Codecademy! Not good: nobody writes for loops this way, we use .each, [Launch School] (https://launchschool.com/books/ruby/read/arrays#iteratingoveranarray)
+
+Review Exercise on Methods and Loops: [Learn Ruby the Hard Way, ex35] (https://learnrubythehardway.org/book/ex35.html) & [Learn Ruby the Hard Way, ex38] (https://learnrubythehardway.org/book/ex38.html), [Bastard Book of Ruby] (http://ruby.bastardsbook.com/chapters/loops/): some further explanation of the for and .each loop syntaxis
+
+Blocks: we have seen them already but let's introduce them officially [Ruby Monstas] (http://ruby-for-beginners.rubymonstas.org/blocks.html): the whole chapter, use the arrow on the right
+
+<hr>
+
+Hashes: 
+
+
 
 ...Many more resources: ... 
 
@@ -60,4 +78,4 @@ Refactoring: [Codecademy] (https://www.codecademy.com/learn/ruby): Chapter 7
 
 Regular expressions: 
 
-Overview: [The Pragmatic Programmer's Guide] (http://ruby-doc.com/docs/ProgrammingRuby/)
+Overview: [The Pragmatic Programmer's Guide] (http://ruby-doc.com/docs/ProgrammingRuby/) & [Tutorial's Point] (https://www.tutorialspoint.com/ruby/ruby_overview.htm): here you may find things that are you don't understand, it is written for people with background in programming so don't get upset; do only the Basics Overview
