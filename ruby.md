@@ -46,7 +46,7 @@ Optional: [Learning Ruby] (http://rubylearning.com/satishtalim/tutorial.html) If
 
 So now we can continue with more Ruby:
 
-Logic and boolean operators: [Learn Ruby the Hard Way, ex 27] (https://learnrubythehardway.org/book/ex27.html) & [Learn Python the Hard Way, ex 28] (https://learnrubythehardway.org/book/ex28.html): in ex27, if you find difficulties, try to say to your self In order the whole statement to be true, both this and this whould be true for and. In order the whole statement to be true, either this or this should be true and you will not make mistakes. In ex28, use your interptreter to check whether you got the answers right: you start it by typing python to the command line. 
+Logic and boolean operators: [Learn Ruby the Hard Way, ex 27] (https://learnrubythehardway.org/book/ex27.html) & [Learn Ruby the Hard Way, ex 28] (https://learnrubythehardway.org/book/ex28.html): in ex27, if you find difficulties, try to say to your self In order the whole statement to be true, both this and this whould be true for and. In order the whole statement to be true, either this or this should be true and you will not make mistakes. In ex28, use your interptreter to check whether you got the answers right: you start it by typing python to the command line. 
 
 If, elsif, else: [Learn Ruby the Hard Way: ex29, 30 & 31] (https://learnrubythehardway.org/book/) & [Ruby for Beginners] (http://ruby-for-beginners.rubymonstas.org/conditionals.html)
 
@@ -60,7 +60,7 @@ Arrays and For-Loops: [Learn Ruby the Hard Way] (https://learnrubythehardway.org
 
 While Loops: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex33.html), [Codeacademy, Chapter 4, ex 1, 2, 4 & 14] (https://www.codecademy.com/learn/ruby)
 
-.times, next, loop, until: [Codecademy, Chapter 4, ex 3, 8-13, 15 & 17]: don't do the part on For loops of Codecademy! Not good: nobody writes for loops this way, we use .each, [Launch School] (https://launchschool.com/books/ruby/read/arrays#iteratingoveranarray)
+.times, next, loop, until: [Codecademy, Chapter 4, ex 3, 8-13, 15 & 17] (https://www.codecademy.com/learn/ruby): don't do the part on For loops of Codecademy! Not good: nobody writes for loops this way, we use .each, [Launch School] (https://launchschool.com/books/ruby/read/arrays#iteratingoveranarray)
 
 Review Exercise on Methods and Loops: [Learn Ruby the Hard Way, ex35] (https://learnrubythehardway.org/book/ex35.html) & [Learn Ruby the Hard Way, ex38] (https://learnrubythehardway.org/book/ex38.html), [Bastard Book of Ruby] (http://ruby.bastardsbook.com/chapters/loops/): some further explanation of the for and .each loop syntaxis
 
@@ -70,9 +70,13 @@ Blocks: we have seen them already but let's introduce them officially [Ruby Mons
 
 Introduction to Hashes: [Codecademy, Chapter 4, ex 6-9, 15] (https://www.codecademy.com/learn/ruby) & [Ruby Monstas] (http://ruby-for-beginners.rubymonstas.org/built_in_classes/hashes.html)
 
+Exercises on Hashes: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex38.html): just the first exercise
 
+Hashes and Loops: [Codecademy, Chapter 4, ex 13 & 18] (https://www.codecademy.com/learn/ruby)
 
-...Many more resources: ... 
+Hashes and Arrays: [The Bastard Book of Ruby] (http://ruby.bastardsbook.com/chapters/collections/): only the part about Comparing Hash and Array operations
+
+More on Hashes: [Codecademy, Chapter 6] (https://www.codecademy.com/learn/ruby)
 
 Refactoring: [Codecademy] (https://www.codecademy.com/learn/ruby): Chapter 7
 
