@@ -46,7 +46,7 @@ Optional: [Learning Ruby] (http://rubylearning.com/satishtalim/tutorial.html) If
 
 So now we can continue with more Ruby:
 
-Logic and boolean operators: [Learn Ruby the Hard Way, ex 27) (https://learnrubythehardway.org/book/ex27.html) & [Learn Python the Hard Way, ex 28] (https://learnrubythehardway.org/book/ex28.html): in ex27, if you find difficulties, try to say to your self In order the whole statement to be true, both this and this whould be true for and. In order the whole statement to be true, either this or this should be true and you will not make mistakes. In ex28, use your interptreter to check whether you got the answers right: you start it by typing python to the command line. 
+Logic and boolean operators: [Learn Ruby the Hard Way, ex 27] (https://learnrubythehardway.org/book/ex27.html) & [Learn Python the Hard Way, ex 28] (https://learnrubythehardway.org/book/ex28.html): in ex27, if you find difficulties, try to say to your self In order the whole statement to be true, both this and this whould be true for and. In order the whole statement to be true, either this or this should be true and you will not make mistakes. In ex28, use your interptreter to check whether you got the answers right: you start it by typing python to the command line. 
 
 If, elsif, else: [Learn Ruby the Hard Way: ex29, 30 & 31] (https://learnrubythehardway.org/book/) & [Ruby for Beginners] (http://ruby-for-beginners.rubymonstas.org/conditionals.html)
 
@@ -68,7 +68,7 @@ Blocks: we have seen them already but let's introduce them officially [Ruby Mons
 
 <hr>
 
-Hashes: 
+Introduction to Hashes: [Codecademy, Chapter 4, ex 6-9, 15] (https://www.codecademy.com/learn/ruby) & [Ruby Monstas] (http://ruby-for-beginners.rubymonstas.org/built_in_classes/hashes.html)
 
 
 
