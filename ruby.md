@@ -26,7 +26,7 @@ Argumental Variables: [Learn Ruby the Hard Way, ex13] (https://learnrubythehardw
 
 <hr>
 
-Reading and Writing Files: [Learn Ruby the Hard Way, ex15] (https://learnrubythehardway.org/book/ex15.html), [The Bastard Book of Ruby] (http://ruby.bastardsbook.com/chapters/io/), [Learn Ruby the Hard Way, ex16] (https://learnrubythehardway.org/book/ex16.html) & [Learn Ruby the Hard Way, ex17] (https://learnrubythehardway.org/book/ex17.html)
+Reading and Writing Files: [Learn Ruby the Hard Way, ex15] (https://learnrubythehardway.org/book/ex15.html), [The Bastard Book of Ruby] (http://ruby.bastardsbook.com/chapters/io/), [Learn Ruby the Hard Way, ex16] (https://learnrubythehardway.org/book/ex16.html), [Learn Ruby the Hard Way, ex17] (https://learnrubythehardway.org/book/ex17.html) & [Launch School] (https://launchschool.com/books/ruby/read/files#whatisafile)
 
 <hr> 
 
