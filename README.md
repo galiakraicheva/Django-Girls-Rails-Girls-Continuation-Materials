@@ -5,6 +5,7 @@
   1. [The Whole Picture](the_whole_picture.md)
   2. [How the Internet Works](how_does_the_internet_work.md) & [How the Internet Works, Part 2] (how_the_internet_works_part_2): part 2 is an additional reading, you may skip it and still be fine :)
   3. [What Are the Programming Languages] (programming_languages.md)
+  4. [Anatomy of a Computer] (anatomy_of_a_computer.md)
 
 2. Basics (time estimation: 2.5 months):
   1. [Command Line] (command_line.md)
