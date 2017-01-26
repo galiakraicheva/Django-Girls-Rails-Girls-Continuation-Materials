@@ -14,7 +14,7 @@
   4. [Object-Oriented Programming Elements in Ruby/Python] (oop.md)
 
 3. Frameworks and Git (time estimation: 2 weeks): 
-  1. [Django] (django.md) / Rails
+  1. [Django] (django.md) / [Rails] (rails.md)
   2. [Git] (git.md)
 
 4) Javascript Horrors (time estimation: 3-4 months): 
