@@ -7,9 +7,11 @@ The interface for RubyGems is a command-line tool called gem which can install l
 
 
 ##Resources: 
-[Rails Tutorial.com: Chapter 1, From Zero to Deploy] (https://www.railstutorial.org/book): don't spend time clicking on all the additional links with resources. They are all payed and you will find enough practice throughout the tutorial and the additional resouces so you don't need to pay
+Intro + a Couple of Terms: [Rails Tutorial.com: Chapter 1, From Zero to Deploy, sections up to 1.1 including] (https://www.railstutorial.org/book/beginning): don't spend time clicking on all the additional links with resources. They are all payed and you will find enough practice throughout the tutorial and the additional resouces so you don't need to pay
 
-Installing Rails and Setting Up a Database for Ubuntu [Go Rails] (https://gorails.com/setup/ubuntu/16.04): alternatively, you can use an IDE that is recommended in the Rail's Tutorial
+Installing Rails and Setting Up a Database for Ubuntu [Go Rails] (https://gorails.com/setup/ubuntu/16.04): alternatively, you can use an IDE that is recommended in the Rail's Tutorial. I guess so far everybody has switched to Ubuntu one way or another (by virtual box or on a USB key) but if you are using another operating system, google for instructions. 
+
+Simple First Project: [Rails Tutorial.com: Chapter 1, From Zero to Deploy, sections up to 1.3 including]
 
 
 
