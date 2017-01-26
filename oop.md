@@ -41,7 +41,7 @@ There are four main tools that OOP uses to keep your code in order:
 
 1. Encapsulation: putting pieces of code into black boxes (building blocks) to hide some code in them so that we can use the whole box to achieve your goals
 
-2. Abstraction: having the building blocks getting more and more complicated stepping on the building blocks below them
+2. Abstraction: having the building blocks getting more and more complicated stepping on the building blocks below them. What is more: after a building block is constructed, most of the details of it can be ignored and a simpler description of it can be used for interaction
 
 3. Inheritance: having subclasses that inherit the features of the parent classes (there are materials on inheritance below so it will become clear). Public methods can be created to open a defined way to access the logic inside an object. 
 
