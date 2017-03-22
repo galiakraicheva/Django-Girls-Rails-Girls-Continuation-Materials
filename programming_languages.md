@@ -1,4 +1,4 @@
-##What Are the Programming Languages
+## What Are the Programming Languages
 
 Programming happens using many different languages. But what does a programming language mean? It is nothing more than a program that has a set of rules through which humans give commands to computers. This set of rules is called the syntax of the programming language (just like with the spoken languages). 
 
@@ -16,7 +16,7 @@ But I said many times that you can write programs in all languages? Why should y
 
 If you do some additional reading and you run into terms like: object-oriented, functional, procedural languages, etc. ignore them. They are to be undrestood at a more advanced level. Do your exercises and after some practice the terms will pop up in the tutorials and they will be explained. 
 
-##Where to start? 
+## Where to start? 
 
 Start with this tutorial. You first need to know the command line and then, do HTML and Python or Ruby simultaniously. They are quite different in terms of purpose and syntax so most probably you won't have problems. If you have problems, read HTML and CSS first and then Python and Ruby. 
 
