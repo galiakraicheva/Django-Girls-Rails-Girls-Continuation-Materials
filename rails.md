@@ -10,17 +10,17 @@ The interface for RubyGems is a command-line tool called gem which can install l
 
 
 
-##Resources: 
+## Resources: 
 
-Intro + a Couple of Terms: [Rails Tutorial.com: Chapter 1, From Zero to Deploy, sections up to 1.1 including] (https://www.railstutorial.org/book/beginning): don't spend time clicking on all the additional links with resources. They are all payed and you will find enough practice throughout the tutorial and the additional resouces so you don't need to pay
+Intro + a Couple of Terms: [Rails Tutorial.com: Chapter 1, From Zero to Deploy, sections up to 1.1 including](https://www.railstutorial.org/book/beginning): don't spend time clicking on all the additional links with resources. They are all payed and you will find enough practice throughout the tutorial and the additional resouces so you don't need to pay
 
-Installing Rails and Setting Up a Database for Ubuntu [Go Rails] (https://gorails.com/setup/ubuntu/16.04): alternatively, you can use an IDE that is recommended in the Rail's Tutorial. I guess so far everybody has switched to Ubuntu one way or another (by virtual box or on a USB key) but if you are using another operating system, google for instructions. 
+Installing Rails and Setting Up a Database for Ubuntu [Go Rails](https://gorails.com/setup/ubuntu/16.04): alternatively, you can use an IDE that is recommended in the Rail's Tutorial. I guess so far everybody has switched to Ubuntu one way or another (by virtual box or on a USB key) but if you are using another operating system, google for instructions. 
 
 Simple First Project: [Rails Tutorial.com: Chapter 1, From Zero to Deploy, sections up to 1.3 including]
 
 <hr>
 
-##Models, Controllers, Views Overview: 
+## Models, Controllers, Views Overview: 
 
 A common way to structure your site and display information form your site to the user with Rails (actually, the default one) is by using the MVC model. The idea is to separate user data from the code that displays it and from the internal data of the application. I explain: 
 
@@ -37,7 +37,7 @@ Let's give an example:
 
 Imagine an online shopping website for beauty products. You go to the website and you log in. Then you expect to see all your previous history of buying bundles on the website listed. You expect to see all the products you have marked as favorite, etc. So when the browser request gets to the website room at the server hotel, a controller sends the Ruby object, called a model, to  the database to get all the favorite products of the user and the previous shopping carts. When the model returns with all the needed information, it fills it in the views template, that gets converted into HTML. So the HTML is sent back to the browser and the beauty website is displayed.
 
-##Resources: 
+## Resources: 
 [Rails Tutorial, Chapter 1.3.3] (https://www.railstutorial.org/book/beginning#sec-mvc): the Wikipedia link is not very comprehensible, no stress if you do not get it. 
 
 Now take a look at your hello_app folders. Open the folder with your app and click on the different folders. See where your default controller is and how it looks. Open the file with the text editor. 
@@ -48,7 +48,7 @@ Then continue with [Rails Tutorial, Chapter 1.3.4] (https://www.railstutorial.or
 
 <hr>
 
-##Getting Familiar with Git
+## Getting Familiar with Git
 
 What is Git? It is a software that allows us to track changes to our projects. This is good because from time to time we may delete some code we wanted or we may change our mind and want the site the way it was before we made changes. Git is formally called a version control system, meaning that it keeps all your previous versions of the project and you can easily compare them. 
 
@@ -59,4 +59,3 @@ So, how do we do it? Here is an overview of the steps, which are further explain
 1. We need to install the git software on your local computer and create a user name and a password. 
 2. You create a folder inside the project's folder called .git. It is local on your computer and is called the staging area. This is the place where you make changes locally and after you are ready with the changes, you put them online at GitHub (there are also other sites that provide version control with git but GitHub is more common. The tutorial we use so far uses BitBuket. It doen't matter what you use). 
 3. When you are ready with the changes, you put them online to be approachable by the other people in the team.
-3. You put all your 
