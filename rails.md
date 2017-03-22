@@ -54,8 +54,14 @@ What is Git? It is a software that allows us to track changes to our projects. T
 
 Another great advantage of Git is that if you work in a team with more people, each one of you can submit changes to the project and you can easily track down or reverse the changes if need be. 
 
-So, how do we do it? Here is an overview of the steps, which are further explained in the links below: 
+At the beginning, Git may sound a little bit counterintuitive. Remember that version control is like sophisticated saving of a Word document. You will see a couple of terms that may sound a bit confusing. 
 
-1. We need to install the git software on your local computer and create a user name and a password. 
-2. You create a folder inside the project's folder called .git. It is local on your computer and is called the staging area. This is the place where you make changes locally and after you are ready with the changes, you put them online at GitHub (there are also other sites that provide version control with git but GitHub is more common. The tutorial we use so far uses BitBuket. It doen't matter what you use). 
-3. When you are ready with the changes, you put them online to be approachable by the other people in the team.
+First, git and GitHub are different. Git is the software that allows you to save changes in a sophisticated manner and be able to see the different versions of your file at different times. So git is a program that runs locally on your computer. The history of all changes that git software generates is called repository. GitHub is a website where you can upload your repository (the code and the history of the changes) so that other people can reach it. So in a way, it is similar to OneDrive, Google Drive, Dropbox and others because it is a place on the Internet, where you have a storage for your files. 
+
+Let's take a look at the process of using git. We give git commands through the command line. First, we need to initialize a git repository. We use the git init command. It is as if you make a folder in which you will save all the versions of your files. The only difference is that it is not empty. It is the git database with lots of internal files and no database entries (it is an empty database). You may notice that the repository is called .git. The dot before the name of the directory means that it can't be seen in the file structure because it is hidden. 
+
+Next step is to select the files you want to save to the repository. This is done by the git add command. It is as if you select with the mouse the files you want to move. This is called "the files are in the staging area" but it is simply choosing what files you want to include in the repository. The next step is to actually include them to the repository (in our analogy, similar to moving the files with a mouse). Once you commit, the files are included in the history log of the database of git. 
+
+Let's say you want to use git for our project. First, you need to install git software locally on your computer and 
+
+All these steps explained one by one: [Rails Tutorial](https://www.railstutorial.org/book/beginning#sec-version_control)
