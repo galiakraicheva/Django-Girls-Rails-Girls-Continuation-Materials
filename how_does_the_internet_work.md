@@ -1,13 +1,13 @@
-#How the Internet Works
+# How the Internet Works
 
 We want to do websites and things like that. So let's say a couple of words about the Internet. 
 
-##Internet is more than websites
+## Internet is more than websites
 We know that we need Internet to load a website (webpage) in your browser (a browser is a program that you have on your computer that reads HTML and displays the content of a website in a human-friendly beautiful website, such programs are Google Chrome, Mozilla Firefox, Internet Explorer, Opera, Safari, Edge, etc. Hopefully, they will be able to display the website in a similar way.) 
 
 But what else do we have on the Internet? Just the websites? No. We also have other things that are not websites. Such are your mobile applications on your phone (an application is another word for a program), the Internet connected cameras, chats, e-mails and many others. In short the Internet is quite a general purpose thing and you can exchange any data on it. Obviously, you have different protocols to transfer data depending on whether it is a website, a mobile app or something else. For websites, we have http or https. 
 
-##A couple of terms
+## A couple of terms
 **Website**: nothing more than a bunch of interrelated files that work together, written on HTML and other languages
 
 **Server**: a place where you store and run your website. You can store and run your website files on your own computer. Nothing stops you from that. However, if you have a bigger site that more people will visit, with more content, it is a good idea not to store it on your local computer (local computer = your own computer). Why is that? Because you can have an electricity shortage during which people won't be able to open your site, your computer may crash and loose your site, your Internet connection may be down, etc. So you give your site to another computer, a much powerful one, in a datacenter (a place with a lot of powerful computers) and you usually pay the owner of the computer to guarantee that your site is alive 24/7. So the owner of the server addresses all sorts of problems that you may have at home. So a server is a powerful computer where people put their sites. 
@@ -20,12 +20,12 @@ But what else do we have on the Internet? Just the websites? No. We also have ot
 
 Now we are ready to see...
 
-##How the Internet works
+## How the Internet works
 Every time a user (meaning you) type an address (meaning url) into the address bar, information goes from your computer to the server. Let's try with an example. It is as if, you give an address to a postal pigeon together with a letter and the pigeon will go to the server to get the site from there. The letter usually consists of information about who you are like cookies and others. The pigeon reaches the server that is like a big building and goes to the reception (called, port 80) where a program exists that builds together the pack of HTML files for the pigeon and the pigeon returns with a letter consisting of the website. It gives the letter to the browser and the browser reads it and displays the website to you. 
 
 That's about it in the most simplifies words :) 
 
-##Some other terms
+## Some other terms
 
 When you read different sites on the topic, you will bump into the following terms as well: 
 
@@ -41,8 +41,8 @@ So it turns out that protocols are like another language used for communication 
 And what about HTTP and HTTPS? They are similar except that the "s" in the end stands for "secured". As for now, the only thing you need to remember is not to give your passwords, credit card details, etc. to sites that are using the http protocol. Your data may be read by third-parties. 
 
  ***
-Additional Resources: If you are interested in learning more terms, here is a quick guide from [Digital Ocean] (https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols): read until Network Layers. However, as a beginning you won't need that much details so feel free to skip to the next section if you are not interested or you find the tutorial difficult to understand. 
+Additional Resources: If you are interested in learning more terms, here is a quick guide from [Digital Ocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols): read until Network Layers. However, as a beginning you won't need that much details so feel free to skip to the next section if you are not interested or you find the tutorial difficult to understand. 
 
 The continuation of the topic, written by me :) Give link
 
-Here is a another very descriptive tutorial, which goes into more details than the above description: [20 Things I Learned about Browsers and the Web] (http://www.20thingsilearned.com/en-US): the chapter on cloud computing is not good and there is no good explanation of the difference between browser extensions and plug-ins but these are not quite important at this stage of the tutorial. 
+Here is a another very descriptive tutorial, which goes into more details than the above description: [20 Things I Learned about Browsers and the Web](http://www.20thingsilearned.com/en-US): the chapter on cloud computing is not good and there is no good explanation of the difference between browser extensions and plug-ins but these are not quite important at this stage of the tutorial. 
