@@ -11,11 +11,40 @@ The interface for RubyGems is a command-line tool called gem which can install l
 
 
 ##Resources: 
+
 Intro + a Couple of Terms: [Rails Tutorial.com: Chapter 1, From Zero to Deploy, sections up to 1.1 including] (https://www.railstutorial.org/book/beginning): don't spend time clicking on all the additional links with resources. They are all payed and you will find enough practice throughout the tutorial and the additional resouces so you don't need to pay
 
 Installing Rails and Setting Up a Database for Ubuntu [Go Rails] (https://gorails.com/setup/ubuntu/16.04): alternatively, you can use an IDE that is recommended in the Rail's Tutorial. I guess so far everybody has switched to Ubuntu one way or another (by virtual box or on a USB key) but if you are using another operating system, google for instructions. 
 
 Simple First Project: [Rails Tutorial.com: Chapter 1, From Zero to Deploy, sections up to 1.3 including]
+
+<hr>
+
+##Models, Controllers, Views Overview: 
+
+A common way to structure your site and display information form your site to the user with Rails (actually, the default one) is by using the MVC model. The idea is to separate user data from the code that displays it and from the internal data of the application. I explain: 
+
+We spoke about browsers and pigeons. Let's continue with the same analogy! We said that when a user enters an address in the address bar of a browser, the address gets packed in a letter and a small pigeon takes the address to a webserver, where the website lives. The server is like a hotel with many rooms where different sites live. At the reception there is a receptionist (a program which is again called web server). So when the pigeon arrives, the receptionist sees what's inside the letter and sends another small pigeon to go to the room where the website the user wants lives. At the door of the room there is the website receptionist, called Ruby controller. It is nothing more than a Ruby class. 
+
+The controller than desides what needs to be done next. Sometimes, it directly renders a template with Ruby code that gets converted to HTML. This template is called a view.
+
+More commonly however: 
+
+1. The controller interacts with a Ruby object that represents an element of the site, for example, a user. The object is called a model and it comminucates with the database and fetches all the information that is needed for the user-specific display of the website. 
+2. After the model fetches the information from the database, it fills it into the template that gets converted into an HTML (i.e. the view) 
+
+Let's give an example: 
+
+Imagine an online shopping website for beauty products. You go to the website and you log in. Then you expect to see all your previous history of buying bundles on the website listed. You expect to see all the products you have marked as favorite, etc. So when the browser request gets to the website room at the server hotel, a controller sends the Ruby object, called a model, to  the database to get all the favorite products of the user and the previous shopping carts. When the model returns with all the needed information, it fills it in the views template, that gets converted into HTML. So the HTML is sent back to the browser and the beauty website is displayed. <3 
+
+##Resources: 
+[Rails Tutorial, Chapter 1.3.3] (https://www.railstutorial.org/book/beginning#sec-mvc): the Wikipedia link is not very comprehensible, no stress if you do not get it. 
+
+Now take a look at your hello_app folders. Open the folder with your app and click on the different folders. See where your default controller is and how it looks. Open the file with the text editor. 
+
+You can also try this more advanced reading and if something does not make sense, skip it or google it but be careful not to get bogged by googling too many unknown terms: [Ruby on Rails Guides] (http://guides.rubyonrails.org/action_controller_overview.html#what-does-a-controller-do-questionmark)
+
+Then continue with [Rails Tutorial, Chapter 1.3.4] (https://www.railstutorial.org/book/beginning#sec-hello_world)
 
 
 
