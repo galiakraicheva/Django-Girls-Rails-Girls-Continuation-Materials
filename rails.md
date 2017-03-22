@@ -49,3 +49,14 @@ Then continue with [Rails Tutorial, Chapter 1.3.4] (https://www.railstutorial.or
 <hr>
 
 ##Getting Familiar with Git
+
+What is Git? It is a software that allows us to track changes to our projects. This is good because from time to time we may delete some code we wanted or we may change our mind and want the site the way it was before we made changes. Git is formally called a version control system, meaning that it keeps all your previous versions of the project and you can easily compare them. 
+
+Another great advantage of Git is that if you work in a team with more people, each one of you can submit changes to the project and you can easily track down or reverse the changes if need be. 
+
+So, how do we do it? Here is an overview of the steps, which are further explained in the links below: 
+
+1. We need to install the git software on your local computer and create a user name and a password. 
+2. You create a folder inside the project's folder called .git. It is local on your computer and is called the staging area. This is the place where you make changes locally and after you are ready with the changes, you put them online at GitHub (there are also other sites that provide version control with git but GitHub is more common. The tutorial we use so far uses BitBuket. It doen't matter what you use). 
+3. When you are ready with the changes, you put them online to be approachable by the other people in the team.
+3. You put all your 
