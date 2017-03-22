@@ -51,12 +51,12 @@ There are four main tools that OOP uses to keep your code in order:
 
 <hr>
 ## Resources: 
-Modules, Classes and Objects: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex40.html)
+Modules, Classes and Objects: [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/ex40.html)
 
-Learning the terminology: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex41.html)
+Learning the terminology: [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/ex41.html)
 
-Subclasses and Inheritance: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex42.html), {The Bastard Book of Ruby] (http://ruby.bastardsbook.com/chapters/oops/): in reality in Ruby chances are that if you use inheritance, you will most probably mess it up and it may create more problems than it solves. In Java there are things called interfaces that keep OOP in order but in Ruby there are no such things. What is more: they is no compiler to protect us and to check if changes hold throughout the program if we make changes. 
+Subclasses and Inheritance: [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/ex42.html), [The Bastard Book of Ruby](http://ruby.bastardsbook.com/chapters/oops/): in reality in Ruby chances are that if you use inheritance, you will most probably mess it up and it may create more problems than it solves. In Java there are things called interfaces that keep OOP in order but in Ruby there are no such things. What is more: they is no compiler to protect us and to check if changes hold throughout the program if we make changes. 
 
-Overview so far: [Tutorials Point] (https://www.tutorialspoint.com/ruby/ruby_object_oriented.htm) & [Codecademy, Section 9] (https://www.codecademy.com/learn/ruby)
+Overview so far: [Tutorials Point](https://www.tutorialspoint.com/ruby/ruby_object_oriented.htm) & [Codecademy, Section 9](https://www.codecademy.com/learn/ruby)
 
 Duck typing: 
