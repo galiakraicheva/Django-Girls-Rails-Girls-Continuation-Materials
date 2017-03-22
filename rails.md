@@ -1,4 +1,4 @@
-#Ruby on Rails
+# Ruby on Rails
 
 As I have previously said, Ruby on Rails (or Rails for short) is a framework for developing web applications in Ruby. But what does a framework actually do? Every website with some programs on is more complex than just having a couple of HTML files. So it needs additional things: a place to keep your database information, a place to keep your CSS, a place to keep your images, error pages, tests for the programs, etc. They need to be organized and properly documented (meaning that there should be explanations what does what on the site). A programmer can do all the folders and connections between the files and the databases by him/herself but that is a long task prone to mistakes. That is why, it is better to use a tool that generates an "empty" general purpose working site for us. Such a tool is Rails. 
 
