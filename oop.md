@@ -1,4 +1,4 @@
-#Object-Oriented Programming Super Basics
+# Object-Oriented Programming Super Basics
 
 **Note**: This gives examples of Ruby and Python that are not pure object-oriented languages. In Java for example, numbers and strings are not objects and the analogies won't hold. But this manual is for Ruby and Python. There is enough for Java, C++ and other languages.
 
@@ -29,7 +29,7 @@ In OOP tutorials you will ofthentimes hear: an object is an instance of the clas
 
 It is just a fancy way to say a simple thing. 
 
-##The Art of OOP
+## The Art of OOP
 
 Since each program has a different purpose, each program will require different objects. Our squares and cirlces will be totally inappropriate for a program used to calculate the amount of energy you need to break atoms into particles in CERN. Sometimes the objects needed are pretty obvious as in our example with squares and triangles but sometimes there can be different objects, having different goals, achieving the same result (as in mathematics, when you have different ways to solve a problem but all methods give the same answer). Different programmers identify and define classes differently so they can give different solutions to the same program. Even though there are differences, here are the rules that you'd better follow when designing your classes: 
 
@@ -47,10 +47,10 @@ There are four main tools that OOP uses to keep your code in order:
 
 4. Polymorphism: well, in Ruby and Python there is no polymorphism such as in Java and C++ for example but there is duck typing. Polymorphism in Java refers to setting a rule called interface that defines what sort of methods and features your object should have so in our above example it is a rule, saying that all objects of the geometry figure classes should have a method that calculates area and if we miss to put a method calculating the area in one of them, the compiler will complain. In Ruby and Python the logic is that at runtime (when the program runs) if there is something missing to dirupt the proper working of the program, there will be an error message. 
 
-##Software Architecture
+## Software Architecture
 
 <hr>
-##Additional Resources: 
+## Resources: 
 Modules, Classes and Objects: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex40.html)
 
 Learning the terminology: [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/ex41.html)
