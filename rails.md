@@ -35,7 +35,7 @@ More commonly however:
 
 Let's give an example: 
 
-Imagine an online shopping website for beauty products. You go to the website and you log in. Then you expect to see all your previous history of buying bundles on the website listed. You expect to see all the products you have marked as favorite, etc. So when the browser request gets to the website room at the server hotel, a controller sends the Ruby object, called a model, to  the database to get all the favorite products of the user and the previous shopping carts. When the model returns with all the needed information, it fills it in the views template, that gets converted into HTML. So the HTML is sent back to the browser and the beauty website is displayed. <3 
+Imagine an online shopping website for beauty products. You go to the website and you log in. Then you expect to see all your previous history of buying bundles on the website listed. You expect to see all the products you have marked as favorite, etc. So when the browser request gets to the website room at the server hotel, a controller sends the Ruby object, called a model, to  the database to get all the favorite products of the user and the previous shopping carts. When the model returns with all the needed information, it fills it in the views template, that gets converted into HTML. So the HTML is sent back to the browser and the beauty website is displayed.
 
 ##Resources: 
 [Rails Tutorial, Chapter 1.3.3] (https://www.railstutorial.org/book/beginning#sec-mvc): the Wikipedia link is not very comprehensible, no stress if you do not get it. 
@@ -46,6 +46,6 @@ You can also try this more advanced reading and if something does not make sense
 
 Then continue with [Rails Tutorial, Chapter 1.3.4] (https://www.railstutorial.org/book/beginning#sec-hello_world)
 
+<hr>
 
-
-
+##Getting Familiar with Git
