@@ -70,3 +70,16 @@ Branches, Commit, Merge, Pull Request: [GitHub Tutorial](https://guides.github.c
 
 Branches, Commits, Merges: [Rails Tutorial, Section 1.4.4](https://www.railstutorial.org/book/beginning#sec-git_commands)
 
+<hr>
+
+## Deploying with Heroku
+
+To deploy is just another way to say to put your application to the Internet to be available to others to use and to be working. Sometimes it is also called to push in production. In order to publish your application on the Internet, you need to have a software to make sense of all your different files and how they are related and a place on a server or in a cloud. This is what Heroku does. 
+
+Heroku is a hosting for web applications. It is not used for websites that have no programs in them. You use git in order to transport your code in Heroku and if your application is written by a well-known framework, like Rails, Heroku easily realises what is what in the application and puts it running on a server. Well, it is a cloud-based application, so it puts your site in a cloud. 
+
+A couple of words about dependencies: it is another word for libraries. The term comes from the idea that the website you are building and it's proper work depends on having the libraries. 
+
+Deploying: [Rails Tutorial, Section 1.5 onwards](https://www.railstutorial.org/book/beginning#sec-deploying)
+
+Understanding about Heroku: [Heroku Guides](https://devcenter.heroku.com/articles/how-heroku-works): until Running applications with dynos. A bit more challenging text because it also speaks about other languages and platforms. Concentrate on what you know and on Rails. 
