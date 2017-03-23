@@ -64,4 +64,9 @@ Next step is to select the files you want to save to the repository. This is don
 
 All these things happen locally on your computer. In order to upload or download project files from GitHub, you use only two commands: git push and git pull. Here is the time to mention that there are also other git hosting companies, like GitHub. These are BitBucket, GitLab and others. The one you choose is up to you. 
 
-All these steps explained one by one: [Rails Tutorial](https://www.railstutorial.org/book/beginning#sec-version_control)
+All these steps explained one by one: [Rails Tutorial: until 1.4.4](https://www.railstutorial.org/book/beginning#sec-version_control)
+
+Branches, Commit, Merge, Pull Request: [GitHub Tutorial](https://guides.github.com/activities/hello-world/): just for an overview to see how it is done with button clicking
+
+Branches, Commits, Merges: [Rails Tutorial, Section 1.4.4](https://www.railstutorial.org/book/beginning#sec-git_commands)
+
