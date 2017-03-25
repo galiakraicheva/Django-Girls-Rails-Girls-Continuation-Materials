@@ -84,4 +84,32 @@ Deploying: [Rails Tutorial, Section 1.5 onwards](https://www.railstutorial.org/b
 
 Note that in the example, for testing, sqlite3 is used, whereas for production pg is used. It is not a good idea to use different databases for testing and for production but most probably the tutorial does so because installing and using PostreSQL on Windows is a bit troublesome. So for simplicity maybe the author chose such solution. 
 
-Understanding about Heroku: [Heroku Guides](https://devcenter.heroku.com/articles/how-heroku-works): until Running applications with dynos. A bit more challenging text because it also speaks about other languages and platforms. Concentrate on what you know and on Rails. 
+Learning about Heroku: [Heroku Guides](https://devcenter.heroku.com/articles/how-heroku-works): until Running applications with dynos. A bit more challenging text because it also speaks about other languages and platforms. Concentrate on what you know and on Rails. 
+
+<hr> 
+
+## Second Project
+
+Scaffolding and MVC practice, REST Basics: [Rails Tutorial](https://www.railstutorial.org/book/toy_app): Here you encounter a couple of terms and practicies for first time. Scaffolding is a way to create quickly and automatically the main pieces of an app. After we generate scaffolding, we "migrate" the database. Migrating the database means making changes. The generate scaffold command has generated a database migration and we need to update the database with the migration. Active Record is the Class that gives a lot of functionality to all the models that are related to the database. It is the parent class, from which all model objects inherit and therefore, they know how to communicate with the database. Maybe in Listings 2.14 and 2.15 you will wonder why microposts is in plural and user is in singular?
+
+```
+Listing 2.14: A user has many microposts. app/models/user.rb
+
+class User < ApplicationRecord
+  has_many :microposts
+end
+```
+
+```
+Listing 2.15: A micropost belongs to a user. app/models/micropost.rb
+
+class Micropost < ApplicationRecord
+  belongs_to :user
+  validates :content, length: { maximum: 140 }
+end
+```
+Good news! Rails understands plural and singular. So when we are speaking about many posts, we use plural, whereas when we speak about one user, we use singular. 
+
+
+Overview: [Rails Guides](http://guides.rubyonrails.org/v3.2.9/getting_started.html): too difficult for a beginner, if you don't know something, skip. Read it to see what you understand out of it. 
+
