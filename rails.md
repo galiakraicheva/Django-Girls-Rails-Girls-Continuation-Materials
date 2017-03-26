@@ -114,3 +114,4 @@ REST Overview: [A Brief Intro to REST](https://www.infoq.com/articles/rest-intro
 
 Overview: [Rails Guides](http://guides.rubyonrails.org/v3.2.9/getting_started.html): too difficult for a beginner, if you don't know something, skip. Read it to see what you understand out of it. 
 
+More Details: [Tutorial's Point: Rails](https://www.tutorialspoint.com/ruby-on-rails/index.htm): until the Example
