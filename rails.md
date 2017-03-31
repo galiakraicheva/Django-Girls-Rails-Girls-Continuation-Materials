@@ -42,6 +42,8 @@ Imagine an online shopping website for beauty products. You go to the website an
 
 Now take a look at your hello_app folders. Open the folder with your app and click on the different folders. See where your default controller is and how it looks. Open the file with the text editor. 
 
+Routing: (The Odin Project)[http://www.theodinproject.com/courses/ruby-on-rails/lessons/routing]
+
 You can also try this more advanced reading and if something does not make sense, skip it or google it but be careful not to get bogged by googling too many unknown terms: [Ruby on Rails Guides] (http://guides.rubyonrails.org/action_controller_overview.html#what-does-a-controller-do-questionmark)
 
 Then continue with [Rails Tutorial, Chapter 1.3.4] (https://www.railstutorial.org/book/beginning#sec-hello_world)
