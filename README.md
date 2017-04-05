@@ -3,7 +3,7 @@
 ## Syllabus
 1. Introduction (time estimate: 2.5h without the additional reading materials)
   1. [The Whole Picture](the_whole_picture.md)
-  2. [How the Internet Works](how_does_the_internet_work.md) & [How the Internet Works, Part 2](how_the_internet_works_part_2): part 2 is an additional reading, you may skip it and still be fine :)
+  2. [How the Internet Works](how_does_the_internet_work.md) 
   3. [What Are the Programming Languages](programming_languages.md)
   4. [Anatomy of a Computer](anatomy_of_a_computer.md)
 
