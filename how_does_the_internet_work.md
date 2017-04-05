@@ -43,6 +43,8 @@ And what about HTTP and HTTPS? They are similar except that the "s" in the end s
  ***
 Additional Resources: If you are interested in learning more terms, here is a quick guide from [Digital Ocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols): read until Network Layers. However, as a beginning you won't need that much details so feel free to skip to the next section if you are not interested or you find the tutorial difficult to understand. 
 
+[Mozilla Developer's Network: How Does the Internet Work](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work#Summary)
+
 The continuation of the topic, written by me :) Give link
 
 Here is a another very descriptive tutorial, which goes into more details than the above description: [20 Things I Learned about Browsers and the Web](http://www.20thingsilearned.com/en-US): the chapter on cloud computing is not good and there is no good explanation of the difference between browser extensions and plug-ins but these are not quite important at this stage of the tutorial. 
