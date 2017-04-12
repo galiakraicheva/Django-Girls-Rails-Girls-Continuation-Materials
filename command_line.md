@@ -7,3 +7,5 @@ To learn the command line at a very good beginners level all you need is:
 [Learn the Command Line Crash Course by Zed Shaw](https://learnrubythehardway.org/book/appendixa.html): invaluable reading
 
 If you want to have further practice and you are on a Mac or Linux, [Codecademy](https://www.codecademy.com/learn/learn-the-command-line) has a course: however, you won't need extra practice
+
+Same story here: if you want extra practice [Learn Enough Command Line](https://www.learnenough.com/command-line-tutorial)
