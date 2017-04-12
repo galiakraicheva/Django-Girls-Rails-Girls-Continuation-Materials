@@ -9,3 +9,5 @@ To learn the command line at a very good beginners level all you need is:
 If you want to have further practice and you are on a Mac or Linux, [Codecademy](https://www.codecademy.com/learn/learn-the-command-line) has a course: however, you won't need extra practice
 
 Same story here: if you want extra practice [Learn Enough Command Line](https://www.learnenough.com/command-line-tutorial)
+
+It is also useful to know the keyboard shortcupts of your operating system: here is for [Linux](https://help.gnome.org/users/gnome-terminal/stable/adv-keyboard-shortcuts.html.en): search on goodle for your operating system if different
