@@ -35,8 +35,8 @@ Let's give an example:
 
 Imagine a news website. It has articles that change every single day. You have to have the articles stored into your database to keep the history of all written. So you create the structure of your website like this: 
 * Views: and HTML, mixed with Ruby, which represents the skeleton of your webpages with "empty holes" for the articles that are to be fetched from the database.
-* Models: a Ruby object that approaches the database and gets the articles from the database. The website may have other objects as well, for example, with your username and email, if you can log into the website, for comments, etc. There can be many models that fill in a lot of "holes" with content from the database. 
-* Controller: the boss who says: Let me see what's in the view, ok, there are empty holes. Model, give me the articles from the database. 
+* Models: a Ruby object that approaches the database and gets the articles from the database. The website may have other objects as well, for example, with your username and email, if you can log into the website, for comments, etc. There can be many models that fill in a lot of "holes" with content from the database. The models are called, for example, index.html.erb, meaning that they have html and embedded Ruby inside the file.
+* Controller: the boss who says: Let me see what's in the view, ok, there are empty holes. Model, give me the articles from the database. Views, here is the info that you need: fill in your holes. The way this is done: the model is a Ruby object. We call its methods and we should keep the values of the output of the methods in a variable that is in the controller. The variable is an instance variable, beginning with @, and is automatically available to use in the views.   
 
 General sidenote: for every model you have a different controller which is a subclass of the application controller that you get by default when you generate your project. The router tells which controller is needed for the particular request, comming from the browser. 
 
