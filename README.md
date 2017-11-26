@@ -19,7 +19,7 @@
     
     2. [HTML](html.md), [CSS](css.md) & [Bootstrap](bootstrap.md)
     
-    3. [Python](python.md) / [Ruby](ruby.md)
+    3. [Python Syntaxis and Basics](python.md) / [Ruby Syntaxis and Basics](ruby.md)
     
     4. [Object-Oriented Programming Elements in Ruby/Python](oop.md)
     
