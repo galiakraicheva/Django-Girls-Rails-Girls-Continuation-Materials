@@ -13,7 +13,7 @@
     4. [Anatomy of a Computer](anatomy_of_a_computer.md)
     
 
-2. Basics (time estimation: 3 months):
+2. Basics (time estimation: 4 months without the practice part):
 
     1. [Command Line](command_line.md)
     
@@ -22,6 +22,10 @@
     3. [Python Syntaxis and Basics](python.md) / [Ruby Syntaxis and Basics](ruby.md)
     
     4. [Object-Oriented Programming Elements in Ruby/Python](oop.md)
+    
+    5. [Test-Driven Development](ttd.md)
+    6. [Class and Instance Methods, Modules](class_methods.md)
+    7. [Ruby Practice](ruby_practice.md)
     
 
 3. Frameworks (time estimation: 1 month): 
