@@ -25,7 +25,7 @@
     
     5. [Test-Driven Development](tdd.md)
     6. [Class and Instance Methods, Modules](class_methods.md)
-    7. [Metaprograming](metaprograming.md)
+    7. [Metaprogramming](metaprogramming.md)
     8. [Ruby Practice](ruby_practice.md)
     
 
