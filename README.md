@@ -23,9 +23,10 @@
     
     4. [Object-Oriented Programming Elements in Ruby/Python](oop.md)
     
-    5. [Test-Driven Development](ttd.md)
+    5. [Test-Driven Development](tdd.md)
     6. [Class and Instance Methods, Modules](class_methods.md)
-    7. [Ruby Practice](ruby_practice.md)
+    7. [Metaprograming](metaprograming.md)
+    8. [Ruby Practice](ruby_practice.md)
     
 
 3. Frameworks (time estimation: 1 month): 
